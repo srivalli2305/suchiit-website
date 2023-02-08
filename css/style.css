@@ -1,0 +1,105 @@
+/*************************** BANNER STYLING***************************/
+
+#banner{
+    float: right;
+    margin:-150px -12px -186px 10px
+    
+}
+
+ /*************************** MENU STYLING***************************/
+
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #44a5f2;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+
+  li a:hover {
+    border-radius: 3px;
+    background-color: #555;
+    color: white;
+  }
+
+  .menu{
+    margin: 30px -3px 10px 0px;
+  }
+
+
+  /*************************** LOGO STYLING***************************/
+  
+  
+  #logo{
+    margin: 39px 1350px -28px -2px;
+    padding:36px 35px 33px 33px;
+    border: 2px solid red;
+    border-radius: 200px;
+  }
+ /*************************** LEFT MENU STYLING***************************/
+  #leftmenu{
+    float: left;
+  }
+
+  #leftmenu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 70px;
+    background-color:  #44a5f2;
+  }
+  
+  #leftmenu li a {
+    display: block;
+    color: black;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color on hover */
+  #leftmenu li a:hover {
+    background-color: #555;
+    color: white;
+    border-radius: 3px;
+  }
+
+  /***************************RIGHT MENU STYLING***************************/
+
+  #rightmenu{
+    float: right;
+    margin: 10px 10px 10px 10px ;
+  }
+
+   /***************************MAIN MENU STYLING***************************/
+
+   #mainmenu p{
+    font-size: 20px;
+    color:black;
+    line-height: normal;
+   }
+
+    /***************************FOOTER STYLING***************************/
+ 
+  .footer h5{
+    text-align: center;
+    margin-top: 100px;
+    font-style: italic;  
+    background-color: #44a5f2; 
+  }
+
+  
